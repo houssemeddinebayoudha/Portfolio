@@ -842,12 +842,13 @@ a:focus {
     position: relative;
     width: 100%;
     margin: 45px 0;
-    padding: 90px 0;
+    padding: 5px 0;
     background: #EF233C;
 }
 
 .banner .container {
     max-width: 750px;
+    height: 40px;
     text-align: center;
 }
 
