@@ -1130,10 +1130,15 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 .section-intro h5 {
 	color: #FFD700;
+
 	font-size: 1.6rem;
 	line-height: 1.875;
-	margin-bottom: 0.3rem;
+	margin-bottom: 2.3rem;
 	letter-spacing: .4rem;
+}
+
+.with-bg{
+	background-color: #313131;
 }
 
 /**
@@ -1767,6 +1772,8 @@ header .logo a {
 }
 #resume .resume-header h2 {
 	color: #FFD700;
+	background-color: #313131;
+	margin-bottom: 2rem;
 }
 
 #resume .resume-timeline {
