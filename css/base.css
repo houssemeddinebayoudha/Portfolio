@@ -505,7 +505,7 @@ textarea {
 }
 .carouselslider {
 background: white;
-box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0.125);
+box-shadow: 0 0px 30px 0px rgba(0, 0, 0, 0.3);
 height: 100px;
 margin: auto;
 overflow: hidden;
